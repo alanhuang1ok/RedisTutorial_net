@@ -1,0 +1,28 @@
+c:\users\geffzhang\documents\visual studio 2010\Projects\RedisTutorial\RedisTutorial\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\geffzhang\Documents\Visual Studio 2010\Projects\RedisTutorial\RedisTutorial\bin\Debug\RedisTutorial.exe.config
+C:\Users\geffzhang\Documents\Visual Studio 2010\Projects\RedisTutorial\RedisTutorial\bin\Debug\RedisTutorial.exe
+C:\Users\geffzhang\Documents\Visual Studio 2010\Projects\RedisTutorial\RedisTutorial\bin\Debug\RedisTutorial.pdb
+C:\Users\geffzhang\Documents\Visual Studio 2010\Projects\RedisTutorial\RedisTutorial\bin\Debug\ServiceStack.Common.dll
+C:\Users\geffzhang\Documents\Visual Studio 2010\Projects\RedisTutorial\RedisTutorial\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\geffzhang\Documents\Visual Studio 2010\Projects\RedisTutorial\RedisTutorial\bin\Debug\ServiceStack.Redis.dll
+C:\Users\geffzhang\Documents\Visual Studio 2010\Projects\RedisTutorial\RedisTutorial\bin\Debug\ServiceStack.Text.dll
+C:\Users\geffzhang\Documents\Visual Studio 2010\Projects\RedisTutorial\RedisTutorial\bin\Debug\ServiceStack.Common.pdb
+C:\Users\geffzhang\Documents\Visual Studio 2010\Projects\RedisTutorial\RedisTutorial\bin\Debug\ServiceStack.Interfaces.pdb
+C:\Users\geffzhang\Documents\Visual Studio 2010\Projects\RedisTutorial\RedisTutorial\bin\Debug\ServiceStack.Redis.pdb
+C:\Users\geffzhang\Documents\Visual Studio 2010\Projects\RedisTutorial\RedisTutorial\bin\Debug\ServiceStack.Redis.xml
+C:\Users\geffzhang\Documents\Visual Studio 2010\Projects\RedisTutorial\RedisTutorial\bin\Debug\ServiceStack.Text.pdb
+C:\Users\geffzhang\Documents\Visual Studio 2010\Projects\RedisTutorial\RedisTutorial\bin\Debug\ServiceStack.Text.xml
+C:\Users\geffzhang\Documents\Visual Studio 2010\Projects\RedisTutorial\RedisTutorial\obj\x86\Debug\RedisTutorial.exe
+C:\Users\geffzhang\Documents\Visual Studio 2010\Projects\RedisTutorial\RedisTutorial\obj\x86\Debug\RedisTutorial.pdb
+E:\work\Alan\RedisTutorial\RedisTutorial\bin\Debug\RedisTutorial.exe.config
+E:\work\Alan\RedisTutorial\RedisTutorial\obj\x86\Debug\RedisTutorial.exe
+E:\work\Alan\RedisTutorial\RedisTutorial\obj\x86\Debug\RedisTutorial.pdb
+E:\work\Alan\RedisTutorial\RedisTutorial\bin\Debug\RedisTutorial.exe
+E:\work\Alan\RedisTutorial\RedisTutorial\bin\Debug\RedisTutorial.pdb
+E:\work\Alan\RedisTutorial\RedisTutorial\bin\Debug\ServiceStack.Common.pdb
+E:\work\Alan\RedisTutorial\RedisTutorial\bin\Debug\ServiceStack.Interfaces.pdb
+E:\work\Alan\RedisTutorial\RedisTutorial\bin\Debug\ServiceStack.Redis.pdb
+E:\work\Alan\RedisTutorial\RedisTutorial\bin\Debug\ServiceStack.Redis.xml
+E:\work\Alan\RedisTutorial\RedisTutorial\bin\Debug\ServiceStack.Text.pdb
+E:\work\Alan\RedisTutorial\RedisTutorial\bin\Debug\ServiceStack.Text.xml
+E:\work\Alan\RedisTutorial\RedisTutorial\obj\x86\Debug\RedisTutorial.csprojResolveAssemblyReference.cache
